@@ -1,5 +1,5 @@
 
-# Cab-Fare-Prediction:
+# Cab-Fare-Prediction: 
 
 [Link to Cab-Fare-Prediction](https://github.com/sanjaytallolli/Cab-Fare-Prediction)
 
